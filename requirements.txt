@@ -1,0 +1,12 @@
+nltk
+regex
+pandas
+numpy
+pickle4
+tensorflow
+scikit-learn
+xgboost
+tqdm
+ipykernel
+h5py
+matplotlib
